@@ -1,0 +1,10 @@
+a=('Name:Salavat')
+print(a)
+b=('Age:47')
+print(b)
+c=(47+20)
+print(c)
+c=('New Age:67')
+print(c)
+is_student='True'
+print(is_student)
